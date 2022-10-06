@@ -1,0 +1,24 @@
+[0.525s] Invoking command in '/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols --uninstall --editable --build-directory /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/build
+[0.717s] running develop
+[0.861s] Invoked command in '/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols' returned '0': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols --uninstall --editable --build-directory /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/build
+[0.863s] Invoking command in '/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/src/py_launch_vrcontrols': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_launch_vrcontrols build --build-base /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/build install --prefix /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols --record /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/install.log --single-version-externally-managed
+[1.043s] running egg_info
+[1.044s] writing ../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/PKG-INFO
+[1.044s] writing dependency_links to ../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/dependency_links.txt
+[1.044s] writing entry points to ../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/entry_points.txt
+[1.044s] writing requirements to ../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/requires.txt
+[1.044s] writing top-level names to ../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/top_level.txt
+[1.069s] reading manifest file '../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/SOURCES.txt'
+[1.070s] writing manifest file '../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/SOURCES.txt'
+[1.070s] running build
+[1.070s] running build_py
+[1.070s] running install
+[1.070s] running install_lib
+[1.071s] running install_data
+[1.072s] copying package.xml -> /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/share/py_launch_vrcontrols
+[1.072s] running install_egg_info
+[1.073s] removing '/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages/py_launch_vrcontrols-0.0.0-py3.8.egg-info' (and everything under it)
+[1.073s] Copying ../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info to /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages/py_launch_vrcontrols-0.0.0-py3.8.egg-info
+[1.074s] running install_scripts
+[1.085s] writing list of installed files to '/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/install.log'
+[1.099s] Invoked command in '/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/src/py_launch_vrcontrols' returned '0': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_launch_vrcontrols build --build-base /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/build install --prefix /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols --record /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/install.log --single-version-externally-managed

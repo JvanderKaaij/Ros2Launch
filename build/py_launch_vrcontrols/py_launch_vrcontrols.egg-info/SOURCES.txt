@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/PKG-INFO
+../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/SOURCES.txt
+../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/dependency_links.txt
+../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/entry_points.txt
+../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/requires.txt
+../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/top_level.txt
+../../build/py_launch_vrcontrols/py_launch_vrcontrols.egg-info/zip-safe
+launch/launch_vrcontrols.py
+py_launch_vrcontrols/__init__.py
+resource/py_launch_vrcontrols
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

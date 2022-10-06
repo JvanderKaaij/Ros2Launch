@@ -1,0 +1,24 @@
+[0.601s] Invoking command in '/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols': PYTHONPATH=/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols --editable --build-directory /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/build --no-deps install_data --install-dir /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols
+[0.797s] running develop
+[0.925s] running egg_info
+[0.925s] creating py_launch_vrcontrols.egg-info
+[0.925s] writing py_launch_vrcontrols.egg-info/PKG-INFO
+[0.925s] writing dependency_links to py_launch_vrcontrols.egg-info/dependency_links.txt
+[0.925s] writing entry points to py_launch_vrcontrols.egg-info/entry_points.txt
+[0.926s] writing requirements to py_launch_vrcontrols.egg-info/requires.txt
+[0.926s] writing top-level names to py_launch_vrcontrols.egg-info/top_level.txt
+[0.927s] writing manifest file 'py_launch_vrcontrols.egg-info/SOURCES.txt'
+[0.951s] reading manifest file 'py_launch_vrcontrols.egg-info/SOURCES.txt'
+[0.951s] writing manifest file 'py_launch_vrcontrols.egg-info/SOURCES.txt'
+[0.982s] running build_ext
+[0.983s] Creating /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages/site.py
+[0.985s] Creating /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages/py-launch-vrcontrols.egg-link (link to .)
+[0.985s] 
+[0.985s] Installed /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols
+[0.985s] running install_data
+[0.986s] creating /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/share/ament_index
+[0.986s] creating /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/share/ament_index/resource_index
+[0.986s] creating /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/share/ament_index/resource_index/packages
+[0.986s] copying resource/py_launch_vrcontrols -> /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/share/ament_index/resource_index/packages
+[0.986s] copying package.xml -> /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/share/py_launch_vrcontrols
+[1.005s] Invoked command in '/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols' returned '0': PYTHONPATH=/home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols --editable --build-directory /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/build/py_launch_vrcontrols/build --no-deps install_data --install-dir /home/joey/PycharmProjects/pythonProject/LaunchVRControls/launch_ws/install/py_launch_vrcontrols
